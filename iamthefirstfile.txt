@@ -9,4 +9,4 @@ i am the third line in the first file of branch one
 i am the fourthline in first file of branch branchone
 
 i am the fourthline in first file of master branch
->>>>>
+twelth line in first file of branch master
